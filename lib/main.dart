@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
         BasicDesignPage.namePage: (_) => const BasicDesignPage(),
         ScrollPage.namePage: (_) => const ScrollPage(),
         HomePage.namePage: (_) => const HomePage()
-      },
+      }, 
     );
   }
 }
